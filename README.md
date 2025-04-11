@@ -1,1 +1,1 @@
-# Tecnicatura_CienciadeDatos_IA
+# Tecnicatura

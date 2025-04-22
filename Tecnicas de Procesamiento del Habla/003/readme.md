@@ -1,4 +1,4 @@
-# Trabajo práctico Integrador 01📍
+# Trabajo práctico Integrador 01 💡
 En este trabajo se aplicaron técnicas de web scrapping y de preprocesamiento de texto sobre un artículo períodistico. Se integró la extracción del texto, la limpieza de stopwords, tokenización, lematización, detección de entidades y obtención de las palabras con mayor frecuencia, las cuales se graficaron en una Nube de Palabras.
 
 ## Construido con 🛠

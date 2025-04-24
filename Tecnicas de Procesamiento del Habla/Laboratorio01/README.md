@@ -20,3 +20,5 @@
 * Spacy
 * nltk
 * Python
+
+[Notebook](https://colab.research.google.com/drive/1bHYX4v8x1KYXXa-o4EWYk7Kd3gLnNKva?usp=sharing)
